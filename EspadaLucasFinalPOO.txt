@@ -1,0 +1,7 @@
+Alumno: Lucas Espada.
+Año: 2025.
+Cursada: Acm2av.
+Materia: Programación orientada a Objetos.
+Docente: Sergio medina.
+
+Link Repositorio: https://github.com/lucaas424/mundialito
